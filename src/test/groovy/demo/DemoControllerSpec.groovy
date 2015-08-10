@@ -1,4 +1,5 @@
-import demo.DemoController
+package demo
+
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 

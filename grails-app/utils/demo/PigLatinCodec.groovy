@@ -1,3 +1,5 @@
+package demo
+
 class PigLatinCodec {
 
     static encode = { String value ->
